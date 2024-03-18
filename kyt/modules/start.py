@@ -6,7 +6,7 @@ async def start(event):
 	inline = [
 [Button.inline("PANEL CREATE ACCOUNT","menu")],
 [Button.url("TELEGRAM GROUP","https://t.me/satanofficiall"),
-Button.url("ORDER SCRIPT","https://t.me/abecasdee13")]]
+Button.url("ORDER SCRIPT","https://t.me/cloudvpnpremium")]]
 	sender = await event.get_sender()
 	val = valid(str(sender.id))
 	if val == "false":
@@ -38,7 +38,7 @@ Button.url("ORDER SCRIPT","https://t.me/abecasdee13")]]
 🔱 **» CITY :** `{city.strip()}`
 🔱 **» DOMAIN :** `{DOMAIN}`
 🔱 **» IP VPS :** `{ipsaya.strip()}`
-🤖 **» @abecasdee13**
+🤖 **» @cloudvpnpremium**
 **✧◇───────────────────◇✧**
 """
 		x = await event.edit(msg,buttons=inline)
