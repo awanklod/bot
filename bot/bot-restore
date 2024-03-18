@@ -1,10 +1,10 @@
 #!/bin/bash
 # //====================================================
 # //	System Request:Debian 9+/Ubuntu 18.04+/20+
-# //	Author:	RMBLvpn
+# //	Author:	cloudvpnpremium
 # //	Dscription: Xray Menu Management
-# //	email: admin@RMBL VPN
-# //  telegram: https://t.me/rmblvpnq
+# //	email: admin@cloudvpnpremium VPN
+# //  telegram: https://t.me/cloudvpnpremium
 # //====================================================
 # // font color configuration | RMBL AUTOSCRIPT
 red() { echo -e "\\033[32;1m${*}\\033[0m"; }
