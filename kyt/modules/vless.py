@@ -305,7 +305,7 @@ async def create_vless(event):
  𝙷𝚞𝚛𝚞𝚏 𝚔𝚊𝚙𝚒𝚝𝚊𝚕, 𝚍𝚊𝚗 𝙰𝚗𝚐𝚔𝚊**
 **✨ No Space**
 **✨ No double Name**
-**✨ Bot : @abecasdee13**
+**✨ Bot : @cloudvpnpremium**
 
 **👉 Input Your UserName :**
 /cancel Kembali KeMENU
@@ -459,7 +459,7 @@ Button.inline(" Akun ","akun7-vless")],
 ✨ **» Host:** `{DOMAIN}`
 ✨ **» ISP:** `{z["isp"]}`
 ✨ **» Country:** `{z["country"]}`
-🤖 **» @abecasdee13**
+🤖 **» @cloudvpnpremium**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
