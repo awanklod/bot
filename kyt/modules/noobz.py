@@ -91,7 +91,7 @@ async def create_noobz(event):
 `GET / HTTP/1.1[crlf]Host: [s_host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]`
 **✧◇───────────────────◇✧**
 **» Expired Until:** `{exp}` Days
-**» 🛂@abecasdee13**
+**» 🛂@cloudvpnpremium**
 **✧◇───────────────────◇✧**
 """)
 			await event.respond(f"""
