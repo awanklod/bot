@@ -68,7 +68,7 @@ async def resx(event):
 		await event.edit(f"""
 ```Processing... 100%\n█████████████████████████ ```
 **» Restarting Service Done**
-**» 🤖@abecasdee13**
+**» 🤖@cloudvpnpremium**
 """,buttons=[[Button.inline("‹ Main Menu ›","menu")]])
 	sender = await event.get_sender()
 	a = valid(str(sender.id))
@@ -181,7 +181,7 @@ Button.inline(" RESTORE","restore")],
 🔱 **» Hostname/IP:** `{DOMAIN}`
 🔱 **» ISP:** `{z["isp"]}`
 🔱 **» Country:** `{z["country"]}`
-🤖 **»@abecasdee13**
+🤖 **»@cloudvpnpremium**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
@@ -210,7 +210,7 @@ Button.inline(" RESTART SERVICE","resx")],
 🔱 **» Hostname/IP:** `{DOMAIN}`
 🔱 **» ISP:** `{z["isp"]}`
 🔱 **» Country:** `{z["country"]}`
-🤖 **»@abecasdee13**
+🤖 **»@cloudvpnpremium**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
