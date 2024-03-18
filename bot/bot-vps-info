@@ -1,12 +1,12 @@
 #!/bin/bash
 # //====================================================
 # //	System Request:Debian 9+/Ubuntu 18.04+/20+
-# //	Author:	RMBL VPN
+# //	Author:	cloudvpnpremium VPN
 # //	Dscription: Xray Menu Management
-# //	email: admin@RMBL VPN
-# //  telegram: https://t.me/rmblvpn1
+# //	email: admin@cloudvpnpremium VPN
+# //  telegram: https://t.me/cloudvpnpremium
 # //====================================================
-# // font color configuration | RMBL VPN AUTOSCRIPT
+# // font color configuration | cloudvpnpremium VPN AUTOSCRIPT
 # COLOR VALIDATION
 
 RED='\033[0;31m'
