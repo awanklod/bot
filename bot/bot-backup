@@ -4,7 +4,7 @@
 # //	Author:	RMBL VPN
 # //	Dscription: Xray Menu Management
 # //	email: admin@RMBL VPN
-# //  telegram: https://t.me/rmblvpn1
+# //  telegram: https://t.me/cloudvpnpremium
 # //====================================================
 # // font color configuration | RMBL VPN AUTOSCRIPT
 red() { echo -e "\\033[32;1m${*}\\033[0m"; }
@@ -55,8 +55,8 @@ LINK BACKUP : $link
 _______________________________________
 
 © Copyright By https://github.com/babi
-Busines email : rmblvpn@gmail.com
-Report bugs   : https://t.me/rmblvpn1
+Busines email : cloudvpnpremium@gmail.com
+Report bugs   : https://t.me/cloudvpnpremium
 Rmbl Project
     " | mail -s "Rmblvpn Backup" $EMAIL
     echo -e "━━━━━━━━━━━━━━━━━━━━━━━━━"
