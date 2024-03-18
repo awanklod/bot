@@ -21,7 +21,7 @@ Button.inline(" RENEW USER ","renew-trgo")],
 ✨ **» Host:** `{DOMAIN}`
 ✨ **» ISP:** `{z["isp"]}`
 ✨ **» Country:** `{z["country"]}`
-🤖 **» @abecasdee**
+🤖 **» @cloudvpnpremium**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
