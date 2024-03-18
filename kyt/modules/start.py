@@ -5,7 +5,7 @@ from kyt import *
 async def start(event):
 	inline = [
 [Button.inline("PANEL CREATE ACCOUNT","menu")],
-[Button.url("TELEGRAM GROUP","https://t.me/satanofficiall"),
+[Button.url("TELEGRAM GROUP","https://t.me/cloudvpnpremium"),
 Button.url("ORDER SCRIPT","https://t.me/cloudvpnpremium")]]
 	sender = await event.get_sender()
 	val = valid(str(sender.id))
