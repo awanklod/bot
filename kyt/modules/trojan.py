@@ -301,7 +301,7 @@ async def create_trojan(event):
  𝙷𝚞𝚛𝚞𝚏 𝚔𝚊𝚙𝚒𝚝𝚊𝚕, 𝚍𝚊𝚗 𝙰𝚗𝚐𝚔𝚊**
 **✨ No Space**
 **✨ No double Name**
-**✨ Bot : @abecasdee13**
+**✨ Bot : @amiqyu**
 
 **✨ Input Your UserName :**
 /cancel Kembali KeMENU
@@ -437,7 +437,7 @@ Button.inline(" Akun ","akun7-trojan")],
 ✨ **» Host:** `{DOMAIN}`
 ✨ **» ISP:** `{z["isp"]}`
 ✨ **» Country:** `{z["country"]}`
-🤖 **» @abecasdee13**
+🤖 **» @amiqyu**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
