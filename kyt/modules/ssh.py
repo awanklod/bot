@@ -9,7 +9,7 @@ async def create_ssh(event):
  𝙷𝚞𝚛𝚞𝚏 𝚔𝚊𝚙𝚒𝚝𝚊𝚕, 𝚍𝚊𝚗 𝙰𝚗𝚐𝚔𝚊**
 **✨ No Space**
 **✨ No double Name**
-**✨ Bot : @abecasdee13**
+**✨ Bot : @amiqyu**
 
 **✨ KETIK NAMA AKUN  :**
 /cancel Kembali KeMENU
@@ -315,7 +315,7 @@ Button.inline("‹ BACK ›","menu")]]
 ✨ **» Host:** `{DOMAIN}`
 ✨ **» ISP:** `{z["isp"]}`
 ✨ **» Country:** `{z["country"]}`
-🤖 **» @abecasdee13**
+🤖 **» @amiqyu**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
