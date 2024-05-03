@@ -20,7 +20,7 @@ async def deleteipp(event):
 **━━━━━━━━━━━━━━━━━━━**
  `IP VPS   :` `{pw}`
 **━━━━━━━━━━━━━━━━━━━**
-**» 🤖@abecasdee13**"""
+**» 🤖@amiqyu**"""
 			await event.respond(msg)
 	chat = event.chat_id
 	sender = await event.get_sender()
@@ -64,7 +64,7 @@ Button.inline(" Lifetime ","360")]])
  `IP VPS   :` `{pw}`
  `Expired  :` `{exp} Days`
 **━━━━━━━━━━━━━━━━━━━**
-**» 🤖@abecasdee13**"""
+**» 🤖@amiqyu**"""
 			await event.respond(msg)
 	chat = event.chat_id
 	sender = await event.get_sender()
@@ -102,7 +102,7 @@ Button.inline(" DELETE IP ","deleteip")],
 ━━━━━━━━━━━━━━━━━━━━━━━ 
 ⚡ **» Hi** {sender.first_name}
 ⚡ **» Total User Script :** `{usersc.strip()}`
-⚡ **» Autoscript By :** @abecasdee13
+⚡ **» Autoscript By :** @amiqyu
 ━━━━━━━━━━━━━━━━━━━━━━━ 
 
 """
