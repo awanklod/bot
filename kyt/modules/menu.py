@@ -42,7 +42,7 @@ Button.inline(" SETTING ","setting")],
 
 		msg = f"""
 **✧◇───────────────────◇✧ **
-      **💥⟨ SFTVT PANEL PREMIUM ⟩💥**
+      **💥⟨ CLOUDVPN PANEL PREMIUM ⟩💥**
 **✧◇───────────────────◇✧ **
 
 **» Hallo {sender.first_name} **
@@ -60,7 +60,7 @@ Button.inline(" SETTING ","setting")],
 **»✨ XRAY TROJAN  :** `{trj.strip()}` __account__
 **»✨ NOOBZVPNS   :** `{noobz.strip()}` __account__
 **»✨ TROJAN-GO   :** `{trgo.strip()}` __account__
-**»🤖@abecasdee**
+**»🤖@amiqyu**
 **✧◇───────────────────◇✧ **
 """
 		x = await event.edit(msg,buttons=inline)
