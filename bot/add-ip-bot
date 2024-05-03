@@ -44,7 +44,7 @@ read -p " Masukan waktu expired : " -e exp
 exp2=`date -d "${exp} days" +"%Y-%m-%d"`
 echo "### ${name} ${exp2} ${ip}" >> /root/ipvps/ip
 cd /root/ipvps
-git config --global user.email "hjjhuh601@gmail.com" &> /dev/null
+git config --global user.email "awimbara@gmail.com" &> /dev/null
 git config --global user.name "awanklod" &> /dev/null
 rm -rf .git &> /dev/null
 git init &> /dev/null
