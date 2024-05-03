@@ -22,7 +22,7 @@ Button.inline("‹ BACK ›","menu")]]
 ✨ **» Host:** `{DOMAIN}`
 ✨ **» ISP:** `{z["isp"]}`
 ✨ **» Country:** `{z["country"]}`
-🤖 **» @abecasdee**
+🤖 **» @amiqyu**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
@@ -91,7 +91,7 @@ async def create_noobz(event):
 `GET / HTTP/1.1[crlf]Host: [s_host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]`
 **✧◇───────────────────◇✧**
 **» Expired Until:** `{exp}` Days
-**» 🛂@abecasdee13**
+**» 🛂@amiqyu**
 **✧◇───────────────────◇✧**
 """)
 			await event.respond(f"""
