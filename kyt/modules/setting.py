@@ -24,7 +24,7 @@ async def resx(event):
 		subprocess.check_output(cmd, shell=True)
 		await event.edit(f"""
 **» Restarting Service Done**
-**» 🤖@abecasdee13**
+**» 🤖@amiqyu**
 """,buttons=[[Button.inline("‹ Main Menu ›","menu")]])
 	sender = await event.get_sender()
 	a = valid(str(sender.id))
@@ -105,7 +105,7 @@ Button.inline(" RESTORE","restore")],
 🔱 **» Hostname/IP:** `{DOMAIN}`
 🔱 **» ISP:** `{z["isp"]}`
 🔱 **» Country:** `{z["country"]}`
-🤖 **»@abecasdee13**
+🤖 **»@amiqyu**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
@@ -134,7 +134,7 @@ Button.inline(" RESTART SERVICE","resx")],
 🔱 **» Hostname/IP:** `{DOMAIN}`
 🔱 **» ISP:** `{z["isp"]}`
 🔱 **» Country:** `{z["country"]}`
-🤖 **»@abecasdee13**
+🤖 **»@amiqyu**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
