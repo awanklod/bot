@@ -21,7 +21,7 @@ Button.inline(" RENEW USER ","renew-trgo")],
 ✨ **» Host:** `{DOMAIN}`
 ✨ **» ISP:** `{z["isp"]}`
 ✨ **» Country:** `{z["country"]}`
-🤖 **» @abecasdee**
+🤖 **» @amiqyu**
 **✧◇───────────────────◇✧** 
 """
 		await event.edit(msg,buttons=inline)
@@ -41,7 +41,7 @@ async def create_trgo(event):
  𝙷𝚞𝚛𝚞𝚏 𝚔𝚊𝚙𝚒𝚝𝚊𝚕, 𝚍𝚊𝚗 𝙰𝚗𝚐𝚔𝚊**
 **✨ No Space**
 **✨ No double Name**
-**✨ Bot : @abecasdee13**
+**✨ Bot : @amiqyu13**
 
 **✨ Input Your UserName :**
 /cancel Kembali KeMENU
