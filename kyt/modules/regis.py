@@ -89,7 +89,7 @@ Button.inline(" DELETE IP ","deleteip")],
 		except:
 			await event.reply("Akses Ditolak")
 	elif val == "true":
-		sh = f' curl -sS https://raw.githubusercontent.com/SatanFusionOfficial/permission/main/ip | grep "###" | wc -l'
+		sh = f' curl -sS https://raw.githubusercontent.com/awanklod/izin_jual/main/ip | grep "###" | wc -l'
 		usersc = subprocess.check_output(sh, shell=True).decode("ascii")
 		sdss = f" cat /etc/os-release | grep -w PRETTY_NAME | head -n1 | sed 's/=//g' | sed 's/PRETTY_NAME//g'"
 		namaos = subprocess.check_output(sdss, shell=True).decode("ascii")
