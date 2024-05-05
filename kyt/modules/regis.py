@@ -80,7 +80,7 @@ async def menu(event):
 [Button.inline(" ADD IP ","resgissc"),
 Button.inline(" DELETE IP ","deleteip")],
 [Button.inline(" RENEW IP ","renewip")],
-[Button.url(" CHANNEL ","https://t.me/satanofficiall")]]
+[Button.url(" CHANNEL ","https://t.me/amiqyu")]]
 	sender = await event.get_sender()
 	val = valid(str(sender.id))
 	if val == "false":
